@@ -1,0 +1,14 @@
+{
+  "name": "resume-api",
+  "version": "1.0.0",
+  "description": "Backend API for the AI Resume Builder (Full-Stack Internship, Module 4, Day 13 task)",
+  "main": "app.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "node --watch app.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
